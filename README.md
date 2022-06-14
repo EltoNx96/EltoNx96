@@ -1,8 +1,10 @@
 ### Olá! Eu sou o José Elton estudante de programação! 
 
 
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando Web Developer Full-Stack
+- 📬 Contate-me: jose.eltonx96@gmail.com
 - 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/EltoNx96">
